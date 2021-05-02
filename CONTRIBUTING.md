@@ -259,4 +259,6 @@ or a bug you want to fix), the following channels can be used:
 
 Thanks for your interest in contributing!
 
+If you need help just read again!
+
 —The Godot development team
